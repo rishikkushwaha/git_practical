@@ -6,5 +6,4 @@ const fs = require('fs');
 console.log("Backend Engineering Lab: Version Control Practical");
 
 
-// arsh's experimental feature
-console.log("Feature Test: Rahul's experimental code is running.");
+console.log("Arsh's feature update is now integrated.");  
