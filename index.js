@@ -7,3 +7,4 @@ console.log("Backend Engineering Lab: Version Control Practical");
 
 
 console.log("Arsh's feature update is now integrated.");  
+console.log("Rahul's contribution has been added to the project.");
