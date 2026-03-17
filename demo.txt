@@ -1,1 +1,5 @@
 Practical 4 completed
+Repository successfully pushed to GitHub
+Repository cloned successfully
+Changes updated using git pull
+Remote repository linked using git remote
